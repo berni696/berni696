@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bernat Pallach
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning JS, AJAX, JQUERY, NODE.JS
+- 🌱 I’m currently learning JS, Jquery, node.js, Laravel
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me bernat696@gmail.com
 
